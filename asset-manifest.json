@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/benz-page/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/benz-page/static/js/main.b070475f.chunk.js",
+    "main.js.map": "/benz-page/static/js/main.b070475f.chunk.js.map",
+    "runtime-main.js": "/benz-page/static/js/runtime-main.5dc1bb70.js",
+    "runtime-main.js.map": "/benz-page/static/js/runtime-main.5dc1bb70.js.map",
+    "static/js/2.da314aee.chunk.js": "/benz-page/static/js/2.da314aee.chunk.js",
+    "static/js/2.da314aee.chunk.js.map": "/benz-page/static/js/2.da314aee.chunk.js.map",
+    "static/js/3.db22531f.chunk.js": "/benz-page/static/js/3.db22531f.chunk.js",
+    "static/js/3.db22531f.chunk.js.map": "/benz-page/static/js/3.db22531f.chunk.js.map",
+    "index.html": "/benz-page/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/benz-page/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.da314aee.chunk.js.LICENSE.txt": "/benz-page/static/js/2.da314aee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/benz-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc1bb70.js",
+    "static/js/2.da314aee.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b070475f.chunk.js"
+  ]
+}
